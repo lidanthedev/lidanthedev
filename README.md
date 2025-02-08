@@ -8,7 +8,7 @@ Recent high school graduate with a passion for development, research, ctfs, and 
 
 * 🌍  I'm based in Israel
 * ✉️  You can contact me at [ls301205@gmail.com](mailto:ls301205@gmail.com)
-* 🧠  I'm learning Socket.io
+* 🧠  I'm learning React native
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I really like web ctfs
 
